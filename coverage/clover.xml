@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1512936474094" clover="3.2.0">
+  <project timestamp="1512936474094" name="All files">
+    <metrics statements="65" coveredstatements="42" conditionals="15" coveredconditionals="9" methods="31" coveredmethods="22" elements="111" coveredelements="73" complexity="0" loc="65" ncloc="65" packages="5" files="11" classes="11">
+      <package name="src">
+        <metrics statements="18" coveredstatements="2" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <file name="index.js" path="/Users/joshbryson/react_testing/flashcardpro/src/index.js">
+          <metrics statements="15" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="11" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+        </file>
+        <file name="setupTests.js" path="/Users/joshbryson/react_testing/flashcardpro/src/setupTests.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="6" count="7" type="stmt"/>
+        </file>
+        <file name="tempPolyfills.js" path="/Users/joshbryson/react_testing/flashcardpro/src/tempPolyfills.js">
+          <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="7" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.actions">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <file name="index.js" path="/Users/joshbryson/react_testing/flashcardpro/src/actions/index.js">
+          <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+          <line num="1" count="5" type="stmt"/>
+          <line num="2" count="5" type="stmt"/>
+          <line num="3" count="5" type="stmt"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="14" count="1" type="stmt"/>
+          <line num="21" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components">
+        <metrics statements="32" coveredstatements="25" conditionals="4" coveredconditionals="2" methods="23" coveredmethods="17"/>
+        <file name="app.js" path="/Users/joshbryson/react_testing/flashcardpro/src/components/app.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="7" count="1" type="stmt"/>
+        </file>
+        <file name="card.js" path="/Users/joshbryson/react_testing/flashcardpro/src/components/card.js">
+          <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="11" count="3" type="stmt"/>
+          <line num="13" count="3" type="stmt"/>
+          <line num="14" count="2" type="stmt"/>
+        </file>
+        <file name="stack.js" path="/Users/joshbryson/react_testing/flashcardpro/src/components/stack.js">
+          <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+          <line num="8" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="19" count="2" type="stmt"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="31" count="0" type="stmt"/>
+        </file>
+        <file name="stackform.js" path="/Users/joshbryson/react_testing/flashcardpro/src/components/stackform.js">
+          <metrics statements="16" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="9"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="11" count="1" type="stmt"/>
+          <line num="18" count="5" type="stmt"/>
+          <line num="20" count="5" type="stmt"/>
+          <line num="22" count="5" type="stmt"/>
+          <line num="26" count="2" type="stmt"/>
+          <line num="28" count="2" type="stmt"/>
+          <line num="30" count="2" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="38" count="14" type="stmt"/>
+          <line num="49" count="1" type="stmt"/>
+          <line num="53" count="7" type="stmt"/>
+          <line num="60" count="1" type="stmt"/>
+          <line num="66" count="1" type="stmt"/>
+          <line num="75" count="5" type="stmt"/>
+          <line num="77" count="0" type="stmt"/>
+        </file>
+        <file name="stacklist.js" path="/Users/joshbryson/react_testing/flashcardpro/src/components/stacklist.js">
+          <metrics statements="5" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="2"/>
+          <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="13" count="1" type="stmt"/>
+          <line num="17" count="1" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.data">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="fixtures.js" path="/Users/joshbryson/react_testing/flashcardpro/src/data/fixtures.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="4" type="stmt"/>
+          <line num="10" count="4" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.reducers">
+        <metrics statements="7" coveredstatements="7" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
+        <file name="index.js" path="/Users/joshbryson/react_testing/flashcardpro/src/reducers/index.js">
+          <metrics statements="7" coveredstatements="7" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
+          <line num="5" count="6" type="cond" truecount="2" falsecount="0"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="9" count="5" type="stmt"/>
+          <line num="14" count="6" type="cond" truecount="3" falsecount="0"/>
+          <line num="16" count="1" type="stmt"/>
+          <line num="18" count="1" type="stmt"/>
+          <line num="20" count="4" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
