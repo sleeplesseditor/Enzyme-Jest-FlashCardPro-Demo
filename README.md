@@ -4,7 +4,7 @@ A flashcard app built using React, Redux and Bootstrap to demonstrate use of Enz
 
 To run the program, follow these steps:
 
-1) cd FlashCardPro
+1) cd Enzyme-Jest-FlashCardPro-Demo
 2) npm install
 3) npm start
 
